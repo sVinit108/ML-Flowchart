@@ -14,3 +14,6 @@ Imp Phases:-
     - Univariate
     - Correlated Features
     - Random forest
+5. Model Creation 
+6. Cross Validation
+7. Hyperparameter tuning
