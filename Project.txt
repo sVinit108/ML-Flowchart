@@ -1,0 +1,9 @@
+1. Attendance
+2. Maintaince
+3. Math Score
+4. Temperature
+5. Churn Modelling
+6. Credit
+7. Gender
+8. Disease
+9. Own
