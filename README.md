@@ -3,17 +3,18 @@
 Imp Phases:-
 1. Data Gathering
 2. Data Integration
-3. Feature Engineering
+    - ETL
+4. Feature Engineering
     - EDA
     - Missing Values
     - Outliers
     - Encoding
     - Scaling
     - Imbalaced
-4. Feature Selection
+5. Feature Selection
     - Univariate
     - Correlated Features
     - Random forest
-5. Model Creation 
-6. Cross Validation
-7. Hyperparameter tuning
+6. Model Creation 
+7. Cross Validation
+8. Hyperparameter tuning
