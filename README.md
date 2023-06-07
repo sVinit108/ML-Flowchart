@@ -4,8 +4,8 @@ Imp Phases:-
 1. Data Collection 
 2. Data Integration
 3. Feature Engineering
-    - EDA
-    - Missing Values
+    - EDA (Num-Cat sep, Distribution analysis, Missing val analysis, Outlier analysis, Feature relation study)
+    - Missing Values (MCAR, MNAR, MAR)
     - Outliers
     - Encoding
     - Scaling
@@ -15,6 +15,8 @@ Imp Phases:-
     - Correlated Features
     - Random forest
 5. Model Creation 
+   - Lin Reg
+   - Log Reg
 6. Cross Validation
    - Train-test
    - K-fold
