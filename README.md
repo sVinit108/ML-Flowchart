@@ -1,7 +1,7 @@
 # ML-Notes
 
 Imp Phases:-
-I. Data Collection
+I. Data Collection \n
 II. Data Integration
 III. Feature Engineering
     - EDA
