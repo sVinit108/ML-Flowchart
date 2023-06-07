@@ -18,3 +18,7 @@ Imp Phases:-
 6. Model Creation 
 7. Cross Validation
 8. Hyperparameter tuning
+    - Grid Search
+    - RandomsiedCV
+    - Genetic Algo
+    - Bayesian Opt
