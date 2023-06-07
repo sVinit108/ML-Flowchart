@@ -1,23 +1,22 @@
 # ML-Notes
 
 Imp Phases:-
-1. Data Gathering
-2. Data Integration
-    - ETL
-4. Feature Engineering
+I. Data Collection
+II. Data Integration
+III. Feature Engineering
     - EDA
     - Missing Values
     - Outliers
     - Encoding
     - Scaling
     - Imbalaced
-5. Feature Selection
+IV. Feature Selection
     - Univariate
     - Correlated Features
     - Random forest
-6. Model Creation 
-7. Cross Validation
-8. Hyperparameter tuning
+V. Model Creation 
+VI. Cross Validation
+VII. Hyperparameter tuning
     - Grid Search
     - RandomsiedCV
     - Genetic Algo
