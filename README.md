@@ -1,22 +1,27 @@
 # ML-Notes
 
 Imp Phases:-
-I. Data Collection \n
-II. Data Integration
-III. Feature Engineering
+1. Data Collection 
+2. Data Integration
+3. Feature Engineering
     - EDA
     - Missing Values
     - Outliers
     - Encoding
     - Scaling
     - Imbalaced
-IV. Feature Selection
+4. Feature Selection
     - Univariate
     - Correlated Features
     - Random forest
-V. Model Creation 
-VI. Cross Validation
-VII. Hyperparameter tuning
+5. Model Creation 
+6. Cross Validation
+   - Train-test
+   - K-fold
+   - Straified K-fold
+   - Random
+   - LOOCV
+7. Hyperparameter tuning
     - Grid Search
     - RandomsiedCV
     - Genetic Algo
