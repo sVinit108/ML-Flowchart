@@ -21,6 +21,12 @@ Imp Phases:-
    - DT
    - RF
    - AdaBoost
+   - Gradient Boost
+   - XgBoost
+   - SVM
+   - DBscan
+   - K-means
+   - Hierarch
 6. Cross Validation
    - Train-test
    - K-fold
