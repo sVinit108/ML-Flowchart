@@ -6,9 +6,8 @@ Imp Phases:-
 3. Feature Engineering
     - EDA (Num-Cat sep, Distribution analysis, Missing val analysis, Outlier analysis, Feature relation study) <br>
     - Missing Values (Num:- MCAR - 3M Impute,less distort in var,wont work in all cas, MNAR-cap nan, end dis imput, MAR-arbitary val) <br>
-       Num:- 3M, Arbit, EOD, New F, M freq, Random (from avail vals) <br>
-       Cat:- "miss", cap nan, fill with most freq) <br>
-      Cat - "Miss", New F, Predcit, Unsuper (cls=no of features), M freq   <br>
+       Num- 3M, Arbit, EOD, New F, M freq, Random (from avail vals) <br>
+      Cat- "Miss", New F, Predcit, Unsuper (cls=no of features), M freq   <br>
     - Outliers (Detect - Violin plot, 10-90 percentile, Replace with 10,90 percentile)
     - Encoding
     - Scaling
